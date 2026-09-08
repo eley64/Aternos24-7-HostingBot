@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DrMaxi.aternos.me",
-    "port": 29352,
+    "ip": "DrMiniMaxi.aternos.me",
+    "port": 23010,
     "version": "",
     "try-creative": false
   },
